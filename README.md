@@ -94,7 +94,7 @@ The test accuracy was approximately **80%**.
 ## 🖥️ Gradio Interface
 
 The project includes a Gradio interface where users can enter package information and receive a predicted damage-risk category.
-![Package Damage Risk Predictor](2026-09-17%20001935.png)
+![Package Damage Risk Predictor](Screenshot%202026-09-17%20001935.png)
 Example inputs:
 
 ```text
